@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IraKhomyk
+- 👋 Hi, I’m @ikhomyk
 - 👀 I’m interested in programming)
 - 🌱 I’m currently learning .Net and Angular
 
